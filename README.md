@@ -1,2 +1,4 @@
 # html-css
- HRML e CSS pelo canal do curso em vídeo
+ HTML e CSS pelo canal do curso em vídeo
+
+ Gerenciamento de repositórios
